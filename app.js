@@ -54,42 +54,42 @@ window.addEventListener('load', () => {
                         case 'Thunderstorm':
                             iconoAnimado.src = 'img/thunder.svg'
                             console.log('Tormenta')
-                            console.log('Desarrolado por Doncan')
+                            console.log('Desarrollado por Doncan')
                             break;
                         case 'Drizzle':
                             iconoAnimado.src = 'img/rainy-5.svg'
                             console.log('Llovizna')
-                            console.log('Desarrolado por Doncan')
+                            console.log('Desarrollado por Doncan')
                             break;
                         case 'Rain':
                             iconoAnimado.src = 'img/rainy-6.svg'
                             console.log('Luvia')
-                            console.log('Desarrolado por Doncan')
+                            console.log('Desarrollado por Doncan')
                             break;
                         case 'Snow':
                             iconoAnimado.src = 'img/snowy-6.svg'
                             console.log('Nieve')
-                            console.log('Desarrolado por Doncan')
+                            console.log('Desarrollado por Doncan')
                             break;
                         case 'Atmosphere':
                             iconoAnimado.src = 'img/weather.svg'
                             console.log('Atmosfera')
-                            console.log('Desarrolado por Doncan')
+                            console.log('Desarrollado por Doncan')
                             break;
                         case 'Clear':
                             iconoAnimado.src = 'img/day.svg'
                             console.log('Despejado')
-                            console.log('Desarrolado por Doncan')
+                            console.log('Desarrollado por Doncan')
                             break;
                         case 'Clouds':
                             iconoAnimado.src = 'img/cloudy.svg'
                             console.log('Nublado')
-                            console.log('Desarrolado por Doncan')
+                            console.log('Desarrollado por Doncan')
                             break;
                         default:
                             iconoAnimado.src = 'img/cloudy-day-1.svg'
                             console.log('Por defecto');
-                            console.log('Desarrolado por Doncan')
+                            console.log('Desarrollado por Doncan')
                     }
 
                 })
